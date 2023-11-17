@@ -73,7 +73,7 @@ class Login extends Component {
                             {/* Icon */}
                             <div className="fadeIn first">
                                 <img
-                                    src={user} width="25px" height="200px   " alt='icon user'
+                                    src={user} width="25px" height="200px" alt='icon user'
                                     id="icon"
                                 />
                             </div>
